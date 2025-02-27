@@ -6,7 +6,7 @@ This project analyzes the **Global Superstore Dataset** using **Excel** to gain 
 ---
 
 ## 📌 Key Features  
-✔ **Sales and Profit Analysis** by Product Category and Regions 
+✔ **Sales and Profit Analysis** by Product Category and regions
 ✔ **Regional Sales & Profit Trends**  
 ✔ **Profit Margins Across Different Locations**  
 ✔ **Interactive Pivot Tables & Charts** for Dynamic Analysis  
